@@ -21,14 +21,13 @@ Le programme prend en compte les lettres disponibles, les jokers `?`, calcule le
 Pour les lettres :
 
 ```text
-CHIE?
+CHI?E
 ```
 
 Le programme peut par exemple proposer :
 
 ```text
 CHIEN
-CHIER
 NICHE
 ```
 
